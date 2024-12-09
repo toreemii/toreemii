@@ -1,16 +1,11 @@
-## Hi there 👋
+## Расчётная работа
 
-<!--
-**toreemii/toreemii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Задание РР
+5.28 (нг,си) Найти звёзды с заданным числом листьев
 
-Here are some ideas to get you started:
+## Алгоритм РР
+1. Определить центр потенциальных звёзд
+2. Проверить вершины
+3. Построить и проверить звёзды
+4. Сохранить результат
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
