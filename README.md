@@ -38,7 +38,7 @@
    - Ищет "звёзды" в графе с использованием функции `findStars`.
    - Выводит найденные "звёзды" в консоль.
    
-     <img src="https://i.ibb.co/9tVR3RK/9-C185394-B9-AB-41-B4-BD0-E-62982-F252-AB5.png" width="800" />
+     <img src="https://i.ibb.co/9tVR3RK/9-C185394-B9-AB-41-B4-BD0-E-62982-F252-AB5.png" width="700" />
  
 ---
 
