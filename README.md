@@ -6,7 +6,7 @@
 ---
 
 ## Пример графа-звезды
-   <img src="https://i.ibb.co/8mntDnx/AABDBDAC-7-F22-40-A4-86-CF-AE4-EFF7-AFB7-D.png" width="500" />
+   <img src="https://i.ibb.co/8mntDnx/AABDBDAC-7-F22-40-A4-86-CF-AE4-EFF7-AFB7-D.png" width="200" />
 
 ## Алгоритм выполнения задания
 
